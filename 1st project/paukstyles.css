@@ -1,32 +1,36 @@
 h2, h3 {
-    background-color: black;
-    
-    color: white;
-    padding: 0 0 0 25px;
-    margin-top: 25px;
-    margin-bottom: 10px;
-  }
-  p {
-    padding: 0 0 0 25px;
-    margin-top: 25px;
-  }
-  a:link {
-    color: blue;
-    text-decoration: none;
-  }
+  background-color: black;
   
-  a:visited:hover {
-    color: orange;
+  color: white;
+  padding: 0 0 0 0px;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-left: 25px;
   }
-  
-  a:hover {
-    color: aqua;
-    text-decoration: underline;
-  }
-  
-  a:active {
-    color: red;
-  }
-  a:visited:active {
-    color: red;
-  }
+p {
+  padding: 0 0 0 25px;
+  margin-top: 25px;
+}
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
+a:visited:hover {
+  color: orange;
+}
+
+a:hover {
+  color: aqua;
+  text-decoration: underline;
+}
+
+a:active {
+  color: red;
+}
+a:visited:active {
+  color: red;
+}
+.image {
+  margin-left: 25px;
+}
