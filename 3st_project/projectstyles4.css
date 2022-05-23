@@ -1,65 +1,68 @@
-
-
-
 .header {
-    display:flex;
-    padding: 0 50px 20px;
-    color: rgb(0, 0, 0);
-    background-color: #ff0202;
-    font-size: 15px;
-    width: 1440px;
-    height: 60px;
+  display:flex;
+  padding: 0 50px 20px;
+  color: rgb(0, 0, 0);
+  background-color: #ff0202;
+  font-size: 15px;
+  width: 1440px;
+  height: 60px;
 }
 
 .recipe {
-    margin: 20px;
-    display: flex;
-    justify-content:space-between;
-  padding: 0 50px;
-    color: rgb(0, 0, 0);
-    font-size: 20px;
-    width: 1440px;
+  margin: 20px;
+  display: flex;
+  justify-content:space-between;
+padding: 0 50px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  width: 1440px;
 }
 .column1 {
-    display: table;
-    margin: 0 auto; 
-    white-space: pre-line; 
-    word-wrap: break-word; 
-    border: 3px solid #d9ff00;
-    border-radius: 30px;
+  display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word; 
+  border: 3px solid #d9ff00;
+  border-radius: 30px;
 
 }
 
 .column2 {
-    display: table;
-    margin: 0 auto; 
-    white-space: pre-line; 
-    word-wrap: break-word; 
-    border: 3px solid #d9ff00;
-    border-radius: 30px;
+  display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word; 
+  border: 3px solid #d9ff00;
+  border-radius: 30px;
 }
 .column3 {
-    display: table;
-    margin: 0 auto; 
-    white-space: pre-line; 
-    word-wrap: break-word; 
-    border: 3px solid #d9ff00;
-    border-radius: 30px;
+  display: table;
+  margin: 0 auto; 
+  white-space: pre-line; 
+  word-wrap: break-word; 
+  border: 3px solid #d9ff00;
+  border-radius: 30px;
 }
 
 p {
-  padding: 0 0 0 50px;
-  margin-top: 25px;
-  font-size: 35px;
+padding: 0 0 0 50px;
+margin-top: 25px;
+font-size: 35px;
 }
-  .footer {
-    display:flex;
-    padding: 0 50px 20px;
-    color: rgb(0, 0, 0);
-    background-color: #ff0202;
-    font-size: 20px;
-    width: 1440px;
-    height: 60px;
-  }
-  
+.footer {
+  display:flex;
+  padding: 0 50px 20px;
+  color: rgb(0, 0, 0);
+  background-color: #ff0202;
+  font-size: 20px;
+  width: 1440px;
+  height: 60px;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+
 
