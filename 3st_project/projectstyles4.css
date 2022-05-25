@@ -4,15 +4,17 @@
   color: rgb(0, 0, 0);
   background-color: #ff0202;
   font-size: 15px;
-  width: 1440px;
-  height: 60px;
+  
 }
 
 .recipe {
-  margin: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
   display: flex;
   justify-content:space-between;
-padding: 0 50px;
+  padding: 0 50px;
   color: rgb(0, 0, 0);
   font-size: 20px;
   width: 1440px;
@@ -24,8 +26,16 @@ padding: 0 50px;
   word-wrap: break-word; 
   border: 3px solid #d9ff00;
   border-radius: 30px;
-  
-
+}
+.column1 > h1 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.column1 > ul {
+  margin: 0 0 0 0;
+  padding-left: 15px;
+  font-size: 25px;
+  list-style: none;
 }
 
 .column2 {
@@ -35,7 +45,16 @@ padding: 0 50px;
   word-wrap: break-word; 
   border: 3px solid #d9ff00;
   border-radius: 30px;
-
+}
+.column2 > h1 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.column2 > ul {
+  margin: 0 0 0 0;
+  padding-left: 15px;
+  font-size: 25px;
+  list-style: none;
 }
 .column3 {
   display: table;
@@ -44,22 +63,24 @@ padding: 0 50px;
   word-wrap: break-word; 
   border: 3px solid #d9ff00;
   border-radius: 30px;
-
+}
+.column3 > h1 {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.column3 > ul {
+  margin: 0 0 0 0;
+  padding-left: 15px;
+  font-size: 25px;
+  list-style: none;
 }
 
-p {
-padding: 0 0 0 50px;
-margin-top: 25px;
-font-size: 35px;
-}
 .footer {
   display:flex;
   padding: 0 50px 20px;
   color: rgb(0, 0, 0);
   background-color: #ff0202;
   font-size: 20px;
-  width: 1440px;
-  height: 60px;
 }
 
 h2 {
