@@ -1,14 +1,11 @@
 h1, h2, h3, p, ul { 
   margin:0; padding: 0;
 }
-.cunteinir {
-  width: 1440px;
-}
+
     .header {
       display:flex;
       justify-content: space-between;
-      width: 1390px;
-      padding-left: 50px;
+      
       
       color: #E50043;
       text-decoration: none;
@@ -16,13 +13,12 @@ h1, h2, h3, p, ul {
     }
   
     .image {
-     width: 1440px;
-     height: 950px;
-      background-image: url("images/evian_origins_logo.png");
+      height: 950px;
+     background-image: url("images/evian_origins_logo.png");
       background-size: 100%;
     }
     .image > p {
-      padding-top: 400px;
+      padding-top: 600px;
       text-align: center;
       color: #E50043;
       font-size: 100px;
@@ -91,8 +87,7 @@ h1, h2, h3, p, ul {
       text-align: left; 
       margin-top: 70px;
       color: white;
-      width: 1440px;
-      height: 140px;
+    
     }
     .footer > h1 {
       padding-top: 50px;
