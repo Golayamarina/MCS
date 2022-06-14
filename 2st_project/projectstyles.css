@@ -15,7 +15,7 @@ h1, h2, h3, p, ul {
     font-size: 30px;
     line-height: 2;
     width: 1400px;
-    height: 200px;
+    height: 100px;
 }
 .image {
   width: 1500px;
@@ -31,10 +31,15 @@ h1, h2, h3, p, ul {
     background-color: #E5E000;
     font-size: 20px;
     width: 1400px;
-    height: 150px;
+    height: 100%;
+    margin-bottom: 20px;
 }
 .link {
   font-size: 30px;
+  padding-bottom: 10px;
+}
+.description {
+  padding-bottom: 20px;
 }
 
 p {
